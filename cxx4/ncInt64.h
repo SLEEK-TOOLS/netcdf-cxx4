@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Int64 type. */
-  class NcInt64 : public NcType
+  class NETCDF_CXX4_API NcInt64 : public NcType
   {
   public: 
     

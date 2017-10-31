@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Char type. */
-  class NcChar : public NcType
+  class NETCDF_CXX4_API NcChar : public NcType
   {
   public: 
     

@@ -12,7 +12,7 @@ namespace netCDF
   class NcGroup;  // forward declaration.
 
   /*! Class represents a netCDF enum type */
-  class NcEnumType : public NcType
+  class NETCDF_CXX4_API NcEnumType : public NcType
     {
     public:
       

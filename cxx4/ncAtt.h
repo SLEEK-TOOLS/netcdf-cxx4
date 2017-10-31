@@ -10,7 +10,7 @@ namespace netCDF
 {
 
   /*! Abstract base class represents inherited by ncVarAtt and ncGroupAtt. */
-  class NcAtt
+  class NETCDF_CXX4_API NcAtt
   {
   public:
     

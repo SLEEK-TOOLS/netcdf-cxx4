@@ -10,7 +10,7 @@ namespace netCDF
   class NcVar;    // forward declaration.
 
   /*! Class represents a netCDF attribute local to a netCDF variable. */
-  class NcVarAtt : public NcAtt
+  class NETCDF_CXX4_API NcVarAtt : public NcAtt
   {
   public:
     

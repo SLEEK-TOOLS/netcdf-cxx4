@@ -103,7 +103,7 @@ bool NcDim::isUnlimited() const
 
 
 // gets the name of the dimension.
-string NcDim::getName() const
+const string NcDim::getName() const
 {
   char dimName[NC_MAX_NAME+1];
   ncCheck(nc_inq_dimname(groupId, myId, dimName),__FILE__,__LINE__);

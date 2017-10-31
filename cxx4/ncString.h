@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic String type. */
-  class NcString : public NcType
+  class NETCDF_CXX4_API NcString : public NcType
   {
   public: 
     

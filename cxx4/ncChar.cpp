@@ -1,3 +1,4 @@
+#include "ncMullionExports.h"
 #include "ncChar.h"
 #include "netcdf.h"
 using namespace netCDF;

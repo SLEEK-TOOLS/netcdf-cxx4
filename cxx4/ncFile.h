@@ -15,7 +15,7 @@ namespace netCDF
     The Ncfile class is the same as the NcGroup class with the additional functionality for opening
     and closing files.
    */
-  class NcFile : public NcGroup
+  class NETCDF_CXX4_API NcFile : public NcGroup
    {
    public:
 

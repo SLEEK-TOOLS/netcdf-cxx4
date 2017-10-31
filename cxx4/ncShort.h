@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Short type. */
-  class NcShort : public NcType
+  class NETCDF_CXX4_API NcShort : public NcType
   {
   public: 
     

@@ -11,7 +11,7 @@ namespace netCDF
   class NcGroup;  // forward declaration.
 
   /*! Class represents a netCDF VLEN type */
-  class NcVlenType : public NcType
+  class NETCDF_CXX4_API NcVlenType : public NcType
   {
   public:
 

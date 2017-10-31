@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Float type. */
-  class NcFloat : public NcType
+  class NETCDF_CXX4_API NcFloat : public NcType
   {
   public: 
     

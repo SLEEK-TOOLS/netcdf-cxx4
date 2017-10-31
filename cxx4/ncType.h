@@ -1,5 +1,6 @@
 #include <string>
 #include "netcdf.h"
+#include "ncMullionExports.h"
 
 #ifndef NcTypeClass
 #define NcTypeClass
@@ -11,7 +12,7 @@ namespace netCDF
   class NcGroup; // forward declaration to avoid cyclic reference.
 
   /*! Base class inherited by NcOpaque, NcVlen, NcCompound and NcEnum classes. */
-  class NcType
+  class NETCDF_CXX4_API NcType
   {
 
   public:

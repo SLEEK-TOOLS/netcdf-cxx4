@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Int type. */
-  class NcInt : public NcType
+  class NETCDF_CXX4_API NcInt : public NcType
   {
   public: 
     

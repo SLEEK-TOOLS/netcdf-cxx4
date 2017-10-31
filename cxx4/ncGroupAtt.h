@@ -9,7 +9,7 @@ namespace netCDF
   class NcGroup;  // forward declaration.
 
   /*! Class represents a netCDF group attribute */
-  class NcGroupAtt : public NcAtt
+  class NETCDF_CXX4_API NcGroupAtt : public NcAtt
   {
   public:
     

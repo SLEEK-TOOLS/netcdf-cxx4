@@ -14,7 +14,7 @@ namespace netCDF
   /*! 
     Class represents a netCDF compound type
   */
-  class NcCompoundType : public NcType
+  class NETCDF_CXX4_API NcCompoundType : public NcType
   {
   public:
 

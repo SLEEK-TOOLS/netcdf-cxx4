@@ -30,7 +30,7 @@ namespace netCDF
   class NcType;   // forward declaration.
 
   /*! Class represents a netCDF variable. */
-  class NcVar
+  class NETCDF_CXX4_API NcVar
   {
   public:
 

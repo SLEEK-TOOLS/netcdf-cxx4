@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Double type. */
-  class NcDouble : public NcType
+  class NETCDF_CXX4_API NcDouble : public NcType
   {
   public: 
     

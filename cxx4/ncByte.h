@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Byte type. */
-  class NcByte : public NcType
+  class NETCDF_CXX4_API NcByte : public NcType
   {
   public: 
     

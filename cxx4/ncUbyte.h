@@ -7,7 +7,7 @@ namespace netCDF
 {
   
   /*! Class represents a netCDF atomic Ubyte type. */
-  class NcUbyte : public NcType
+  class NETCDF_CXX4_API NcUbyte : public NcType
   {
   public: 
     

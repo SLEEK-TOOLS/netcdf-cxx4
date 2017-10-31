@@ -24,7 +24,7 @@ namespace netCDF
   class NcOpaqueType;   // forward declaration.
 
   /*! Class represents a netCDF group. */
-  class NcGroup
+  class NETCDF_CXX4_API NcGroup
   {
 
   public:
